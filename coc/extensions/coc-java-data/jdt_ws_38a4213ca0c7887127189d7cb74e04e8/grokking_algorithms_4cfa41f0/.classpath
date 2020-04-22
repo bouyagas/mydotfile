@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="_/01_introduction_to_algorithms/java/01_binary_search/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

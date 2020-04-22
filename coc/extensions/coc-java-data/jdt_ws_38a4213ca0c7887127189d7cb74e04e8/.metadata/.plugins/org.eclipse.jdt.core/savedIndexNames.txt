@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/mohamedbgassama/.config/coc/extensions/coc-java-data/jdt_ws_38a4213ca0c7887127189d7cb74e04e8/.metadata/.plugins/org.eclipse.jdt.core
+2914964840.index
